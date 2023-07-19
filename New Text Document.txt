@@ -1,0 +1,7 @@
+= is exactly equal
+!= is not equal
+^= is starts with
+$= is ends with
+*= is contains
+~= is contains word
+|= is starts with prefix (i.e., |= "prefix" matches "prefix-...")
